@@ -32,6 +32,10 @@
 /* General
 ==================================================*/
 
+.projectp {
+    text-align: justify;
+}
+
 .headlinks {
     display: inline-block;
     color: black;
