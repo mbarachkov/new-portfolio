@@ -32,6 +32,11 @@
 /* General
 ==================================================*/
 
+.headlinks {
+    display: inline-block;
+    color: black;
+}
+
 html,
 body {
     height: 100%;
@@ -96,6 +101,10 @@ h3 {
 
 h5 {
     color: #ffbf00;
+}
+
+h4 {
+    color: black;
 }
 
 
@@ -888,11 +897,15 @@ footer img {
 /* About page
 ==================================================*/
 
+.aboutp {
+    text-align: justify;
+}
+
 .top-bar {
     color: #333;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/code.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/code.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/keyboard.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/keyboard.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
