@@ -32,6 +32,10 @@
 /* General
 ==================================================*/
 
+.portfolioMiniDesc {
+    color: white;
+}
+
 .projectp {
     text-align: justify;
 }
